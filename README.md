@@ -1,5 +1,5 @@
 ### Simple React app with Storybook
-
+s
 ### Run the [Storybook](https://github.com/kadirahq/react-storybook)
 
 ```js
